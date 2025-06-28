@@ -1,1 +1,3 @@
 Library ID #,Full Name,Section,Date Borrowed,Book Title,Book ID,Book Author
+ICT-80005,Yvan Lowell Aquino,11-Gates,March 12 2020,Calculus,MT-105248,Stewart
+ICT-80099,Ruth,11-Gates,March 12 2020,History,HS-100124,Terrence Tao
